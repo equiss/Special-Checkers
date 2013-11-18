@@ -2,7 +2,7 @@ Special-Checkers
 ================
 
 Extended checkers game project for CSE240 at ASU
-C++ compiled in VS13
+- C++ compiled in VS13
 
 ---------------------------
 This is an extended version of the classic game Checkers.  There are three players on a 9 x 9 board and each player has a 'special' ability which may be used once per checker piece per game.
